@@ -1,6 +1,6 @@
 # Script_ZPL_Mercado_libre_Impresora
 
-Script que convierte lenguaje ZPL a PDF para etiquetas de mercado libre
+**Script que convierte lenguaje ZPL a PDF para etiquetas de mercado libre
 en GNU/linux. Sirve cuando tienes impresora Gprinter y no traduce el ZPL.
 Tengo la impresora termica GP-1324P. La etiqueta esta ajustada con CUPS
 Y este script lo convierte a Pdf y abre okular. Utiliza la api
@@ -23,5 +23,5 @@ python zpl_impresor_etiquetas_mercado_libre.py
 6.- Para imprimir otro descarga el zip en la ubicación de imprimir.sh y "zpl_impresor_etiquetas_mercado_libre.py"
 
 Notas: El script solito borra los zip files. 
-
+**
 
